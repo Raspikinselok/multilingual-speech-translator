@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+htmx
+tailwindcss
+# Später hinzufügen:
+# faster-whisper
+# transformers
+# coqui-tts
